@@ -34,8 +34,11 @@ npx expo start --web
 # документация
 
 https://reactnative.dev/
+
 https://docs.expo.dev/
+
 https://tailwindcss.ru/
+
 https://fontawesome.com/docs/web/use-with/react-native
 
 # приемка задания
